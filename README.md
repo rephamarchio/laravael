@@ -1,2 +1,2 @@
 # laravael
-crud laravel
+crud completo laravel
